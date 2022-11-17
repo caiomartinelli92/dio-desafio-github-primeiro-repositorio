@@ -1,0 +1,4 @@
+git init -> inicializar um repositorio (primeiro commit)
+git add */./-A -> adicionar ao commit todos os arquivos
+git commit -m "comentario" -> commita localmente e adiciona um comentário sobre as alterações realizadas
+git push origin main -> sobe para o repositorio na branch principal (main) os commits locais.
